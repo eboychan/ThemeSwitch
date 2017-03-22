@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThemeSwitch</string>
+    <string name="button_one">Light</string>
+    <string name="button_two">Dark</string>
+</resources>
